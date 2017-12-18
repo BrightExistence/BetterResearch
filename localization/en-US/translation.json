@@ -1,0 +1,38 @@
+﻿{
+  "sentences": {
+    "pipliz": {
+      "baseresearch": {
+        "sciencebagadvanced": {
+          "description": "Unlocks Advanced Components, used for advanced research",
+          "name": "Advanced Components"
+        },
+        "sciencebagbasic": {
+          "description": "Unlocks Basic Research Equipment, used for basic research",
+          "name": "Basic Research Equipment"
+        },
+        "sciencebagcolony": {
+          "description": "Unlocks Infrastructure Supplies, used for colony related research",
+          "name": "Infrastructure Supplies"
+        },
+        "sciencebaglife": {
+          "description": "Unlocks Alchemy Ingredients, necessary to research health related upgrades",
+          "name": "Alchemy Ingredients"
+        },
+        "sciencebagmilitary": {
+          "description": "Unlocks Military Parts, used for military research",
+          "name": "Military Parts"
+        }
+      }
+    }
+  },
+  "types": {
+    "sciencebagadvanced": "Advanced Components",
+    "sciencebagbasic": "Basic Research Equipment",
+    "sciencebagcolony": "Infrastructure Supplies",
+    "sciencebaglife": "Alchemy Ingredients",
+    "sciencebagmilitary": "Military Parts"
+
+  },
+  "typeuses": {
+  }
+}
